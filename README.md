@@ -5,7 +5,7 @@
 ---
 ## SVG
 
-+ ####  [Link: Github](https://github.com/myeeko/Templates/blob/main/HTML_headtags)
++ ####  [Link: Github](https://github.com/myeeko/SVG/blob/main/github.svg)
 + ####  [Link: Youtube](https://github.com/myeeko/Templates/blob/main/HTML_headtags)
 
 ---
